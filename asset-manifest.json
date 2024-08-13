@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hrportal/static/css/main.f855e6bc.css",
+    "main.js": "/hrportal/static/js/main.9772e650.js",
+    "static/js/453.dd53e008.chunk.js": "/hrportal/static/js/453.dd53e008.chunk.js",
+    "static/media/3dImage.png": "/hrportal/static/media/3dImage.4fd4f836d9cc99088d53.png",
+    "static/media/ironman.jpg": "/hrportal/static/media/ironman.5f28231ff7dc4a0065d4.jpg",
+    "static/media/captain.jpg": "/hrportal/static/media/captain.ec742da5c34a6a1e439d.jpg",
+    "static/media/image.jpg": "/hrportal/static/media/image.f4d1a67a9dce3c2ae8e8.jpg",
+    "static/media/javascript.jpg": "/hrportal/static/media/javascript.ca3010ab24ae902f0b2d.jpg",
+    "static/media/python.png": "/hrportal/static/media/python.632369df831d16241b59.png",
+    "static/media/thor.jpg": "/hrportal/static/media/thor.a033313604e0f9dd0643.jpg",
+    "index.html": "/hrportal/index.html",
+    "main.f855e6bc.css.map": "/hrportal/static/css/main.f855e6bc.css.map",
+    "main.9772e650.js.map": "/hrportal/static/js/main.9772e650.js.map",
+    "453.dd53e008.chunk.js.map": "/hrportal/static/js/453.dd53e008.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.9772e650.js"
+  ]
+}
