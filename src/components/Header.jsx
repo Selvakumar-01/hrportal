@@ -1,5 +1,5 @@
 import React from 'react'
-import { Grid, Stack, TextField, Typography, IconButton, Avatar, Card } from "@mui/material"
+import { Grid, Stack, TextField, Typography, IconButton, Card } from "@mui/material"
 import DetailsIcon from '@mui/icons-material/Details';
 import InputAdornment from '@mui/material/InputAdornment';
 import SearchIcon from '@mui/icons-material/Search';
@@ -63,7 +63,6 @@ export default function Header() {
                                     <IconButton sx={{ color: 'purple' }}>
                                         <SettingsIcon />
                                     </IconButton>
-                                    <Avatar alt="SK" src="/path/to/avatar.png" sx={{ width: 40, height: 40, mt: 2 }} />
                                 </Stack>
                             </Grid>
                         </Grid>
